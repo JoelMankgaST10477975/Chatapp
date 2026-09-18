@@ -1,0 +1,3 @@
+git add src/main/java/com/mycompany/chatapp/Registration.java
+git commit -m "Add Registration class with validation methods"
+git push
